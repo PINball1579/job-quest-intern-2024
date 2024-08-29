@@ -4,6 +4,8 @@ Hi all applicants! Welcome to OrangeCap Internship Program 2024. Being an intern
 
 ***Please fork this repo and work on the test. After finishing the test, please send your repo to chatchawan@orangecapinnovative.com***
 
+***What you need to do is write the code that solve each question and put it in folder basic-js-ts. We will run your code with Node.js 12, so check your fancy feature before using it!***
+
 # Bracket Matcher
 
   Write a function `bracketMatcher` that receives a string. The function will return a number. If there is the brackets are correctly matched and each one is accounted for. Otherwise, return 0
